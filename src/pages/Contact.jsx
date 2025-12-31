@@ -107,21 +107,21 @@ function Contact() {
                 {/* Contact Details */}
                 <div className="mt-12 text-center space-y-3 text-lg text-gray-300">
                     <p>
-                        📧 Email:{" "}
+                        📧 Email :{" "}
                         <span className="text-cyan-400 hover:underline">
                             mhd.adhnan26@gmail.com
                         </span>
                     </p>
 
                     <p>
-                        🔗 GitHub:{" "}
+                        🔗 GitHub Link :{" "}
                         <span className="text-cyan-400 hover:underline">
                             github.com/Adhnan26
                         </span>
                     </p>
 
                     <p>
-                        💼 LinkedIn:{" "}
+                        💼 LinkedIn :{" "}
                         <span className="text-cyan-400 hover:underline">
                             linkedin.com/in/adhnan26
                         </span>
