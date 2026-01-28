@@ -2,6 +2,7 @@ import project1 from "../assets/project1.png";
 import project2 from "../assets/project2.png";
 import project3 from "../assets/project3.png";
 import project4 from "../assets/project4.png";
+import project5 from "../assets/project5.png";
 
 function Projects() {
   return (
@@ -22,6 +23,13 @@ function Projects() {
 
           {/* PROJECT CARD */}
           {[
+            {
+              img: project5,
+              title: "NeoCart E-Commerce Web",
+              desc: "Full Stack MERN e-commerce application with authentication,cart,and order management",
+              live: "https://e-commerce-web-two.vercel.app/",
+              github: "https://github.com/Adhnan26/E-Commerce-Web",
+            },
             {
               img: project1,
               title: "BulkMail App",

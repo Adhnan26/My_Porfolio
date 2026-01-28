@@ -19,7 +19,7 @@ function Navbar() {
         <nav className="bg-[#0f172a] text-white shadow-md fixed top-0 left-0 w-full z-50">
             <div className="max-w-6xl mx-auto flex justify-between items-center p-4 sm:p-6">
 
-                {/* Logo / Name */}
+                {/* Name */}
                 <h1 className="text-xl sm:text-2xl font-bold tracking-wider 
                        hover:text-cyan-400 transition-colors cursor-pointer">
                     Mohamed Adhnan
